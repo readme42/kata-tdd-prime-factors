@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "build",
+    "removeComments": false
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
